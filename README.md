@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="images/mortality_by_age_group.png" width="400">
+  <img src="images/mortality_by_age_bar.png" width="400">
 </p>
 
 This project explores the Titanic dataset to identify key factors influencing passenger survival.
