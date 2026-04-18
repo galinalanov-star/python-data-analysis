@@ -1,4 +1,8 @@
 # 🚢 Titanic Survival Analysis (Python EDA Project)
+## 📊 Dashboard Preview
+
+<img src="images/survival_by_gender.png" width="500">
+<img src="images/survival_by_class.png" width="500">
 
 This project explores the Titanic dataset to identify key factors influencing passenger survival.
 
