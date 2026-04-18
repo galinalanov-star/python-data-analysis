@@ -1,5 +1,5 @@
 # 🚢 Titanic Survival Analysis (Python EDA Project)
-
+This project explores the Titanic dataset to identify key factors influencing passenger survival.
 ## 📊 Key Visualizations
 
 <p align="center">
@@ -11,6 +11,9 @@
   <img src="images/mortality_rate_by_deck.png" width="400">
   <img src="images/mortality_by_ticket_class.png" width="400">
 </p>
+📌 Passengers traveling with many relatives had lower survival chances  
+📌 Higher ticket class correlates with lower mortality  
+📌 Certain decks had significantly different mortality rates  
 
 ## 📊 Mortality by Age
 
@@ -18,8 +21,9 @@
   <img src="images/mortality_by_age_group.png" width="400">
   <img src="images/mortality_by_age_bar.png" width="400">
 </p>
+📌 Passengers aged 60+ had the highest mortality  
+📌 Children had the lowest mortality risk  
 
-This project explores the Titanic dataset to identify key factors influencing passenger survival.
 
 ## 📊 Project Overview
 The goal of this analysis is to understand how different variables such as gender, age, passenger class, and family size impacted survival rates.
