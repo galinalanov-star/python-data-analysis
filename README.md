@@ -12,6 +12,8 @@
   <img src="images/mortality_by_ticket_class.png" width="400">
 </p>
 
+## 📊 Mortality by Age
+
 <p align="center">
   <img src="images/mortality_by_age_group.png" width="400">
   <img src="images/mortality_by_age_bar.png" width="400">
